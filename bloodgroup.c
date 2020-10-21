@@ -2,7 +2,7 @@
 #include <string.h>
 void main()
 { char Name[40], G[5], answer[10];
-  int i;
+  int i, j;
   do
   {
     printf("What is your Name? ");
